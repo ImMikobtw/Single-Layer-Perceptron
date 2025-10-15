@@ -23,7 +23,7 @@ The perceptron learns by iteratively adjusting weights until the predictions mat
 
 ---
 
-## 🧩 Implementation Details
+## Implementation Details
 
 ### Step 1: Import Libraries
 ```python
